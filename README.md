@@ -9,6 +9,8 @@ and displays the letter grade.
 1. Open the program in your IDE.
 2. Enter student names and scores.
 3. View the calculated grade output.
+4. Prints student grades.
+   edited added by Phuong Xuan Pham
 
 ## Example Output
 Student: Alex  
@@ -17,3 +19,4 @@ Grade: B
 
 ## Author
 Mikayla Khamnyvong
+
