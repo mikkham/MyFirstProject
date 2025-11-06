@@ -20,3 +20,5 @@ Grade: B
 ## Author
 Mikayla Khamnyvong
 
+## Collaboration Acknowledgment
+This project was reviewed and edited by Phuong Pham on GitHub.
